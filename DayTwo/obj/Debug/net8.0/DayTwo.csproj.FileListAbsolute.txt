@@ -12,3 +12,4 @@ C:\Users\MehrabRahman\DayTwo\DayTwo\obj\Debug\net8.0\refint\DayTwo.dll
 C:\Users\MehrabRahman\DayTwo\DayTwo\obj\Debug\net8.0\DayTwo.pdb
 C:\Users\MehrabRahman\DayTwo\DayTwo\obj\Debug\net8.0\DayTwo.genruntimeconfig.cache
 C:\Users\MehrabRahman\DayTwo\DayTwo\obj\Debug\net8.0\ref\DayTwo.dll
+C:\Users\MehrabRahman\DayTwo\DayTwo\obj\Debug\net8.0\DayTwo.sourcelink.json
